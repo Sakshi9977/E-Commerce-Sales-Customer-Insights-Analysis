@@ -2,7 +2,23 @@
 # 📊 E-Commerce Sales & Customer Insights Analysis
 
 ## 🚀 Project Overview
-Welcome to the **E-Commerce Sales & Customer Insights Analysis** project! This initiative is designed to unlock valuable insights from online retail transaction data, enabling data-driven decision-making to boost sales and enhance customer satisfaction.
+E-commerce businesses operate in a highly competitive digital marketplace where understanding customer behavior and optimizing sales strategies are crucial for growth. This project leverages a structured data-driven approach to analyze online retail transaction data, uncover key revenue drivers, and propose actionable insights for business expansion.
+
+By integrating Python, SQL, Excel, and Machine Learning, this study transforms raw transaction records into meaningful business intelligence, helping stakeholders make informed decisions regarding customer segmentation, marketing strategies, pricing models, and inventory management.
+
+The core objectives of this project include:
+
+Cleaning and structuring raw transaction data for accurate analysis.
+
+Storing and retrieving data efficiently using a relational database.
+
+Exploring sales trends, customer purchase behavior, and product performance.
+
+Conducting statistical tests to validate business hypotheses.
+
+Developing predictive models to forecast repeat purchases and high-value transactions.
+
+Delivering key recommendations to enhance revenue, optimize promotions, and improve customer retention.
 
 ## 🎯 Objectives
 
@@ -56,6 +72,7 @@ Welcome to the **E-Commerce Sales & Customer Insights Analysis** project! This i
 ✅ Identify key revenue drivers and customer segments.
 
 ✅ Provide actionable strategies for marketing, pricing, and inventory management.
+
 ✅ Summarize findings in a structured executive report.
 
 ---
