@@ -56,10 +56,13 @@ In this project, I analyzed an online retail dataset to extract key insights tha
 ## 📆 Project Deliverables 📂
 
 
-✅ **Cleaned dataset & Python scripts for preprocessing*
-✅ **SQL scripts (DDL & DML) with query outputs*
-✅ **Interactive Power BI dashboard with visual insights*
-✅ **Executive summary with key business recommendations*
+✅ **Cleaned dataset & Python scripts for preprocessing**
+
+✅ **SQL scripts (DDL & DML) with query outputs**
+
+✅ **Interactive Power BI dashboard with visual insights**
+
+✅ **Executive summary with key business recommendations**
 
 ---
 
@@ -74,13 +77,15 @@ In this project, I analyzed an online retail dataset to extract key insights tha
 ## 📌 How to Use This Project 🛠️
 
 1⃣ **Run the Python scripts** for data cleaning and analysis.
+
 2⃣ **Use the provided SQL scripts** to create and query the database.
+
 3⃣ **Explore insights** using the interactive Power BI dashboard.
+
 4⃣ **Review the executive summary** for strategic takeaways.
 
 ---
 
 **📢 Author:** Sakshi Prajapati  
 📧 **Contact:** sakshiballb@gmail.com  
-🗓 **Date:**
 
