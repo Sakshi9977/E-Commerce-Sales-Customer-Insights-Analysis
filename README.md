@@ -55,10 +55,11 @@ In this project, I analyzed an online retail dataset to extract key insights tha
 
 ## 📆 Project Deliverables 📂
 
-✅ **Cleaned dataset & Python scripts for preprocessing**
-✅ **SQL scripts (DDL & DML) with query outputs**
-✅ **Interactive Power BI dashboard with visual insights**
-✅ **Executive summary with key business recommendations**
+
+✅ **Cleaned dataset & Python scripts for preprocessing*
+✅ **SQL scripts (DDL & DML) with query outputs*
+✅ **Interactive Power BI dashboard with visual insights*
+✅ **Executive summary with key business recommendations*
 
 ---
 
