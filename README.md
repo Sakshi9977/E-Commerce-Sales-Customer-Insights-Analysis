@@ -10,8 +10,8 @@ To address this, an in-depth analysis of an open-source online retail dataset (e
 ## **📌 1. Overview**
 This report provides insights into e-commerce sales trends, customer behavior, and product performance based on the Power BI dashboard. The analysis covers key performance indicators (KPIs), sales trends, customer segmentation, top customers, peak shopping hours, geographical sales distribution, and best-selling products.
 
-🖼️ ![Dashboard Screenshot](![E-commerce Dashboard](https://github.com/user-attachments/assets/dcdf0ae7-f41c-46fb-a93f-8cb0f4f9bb52)
-)
+🖼️ ![Dashboard Screenshot]![E-commerce Dashboard](https://github.com/user-attachments/assets/4837c07b-57af-4f1e-b0ba-d6bd7a381218)
+
 
 ---
 
