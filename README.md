@@ -1,12 +1,9 @@
 # **E-Commerce Sales & Customer Behavior Analysis**
 
-## **Objective**
-As a Data Analyst at an emerging e-commerce startup, the goal is to develop a data-driven strategy to boost sales and improve customer satisfaction. The company’s leadership has provided access to an open-source online retail dataset (e.g., “UCI Online Retail Data”) containing anonymized transaction details over the past year. 
+## **Problem Statement**
+An emerging e-commerce startup is facing challenges in understanding customer behavior, optimizing sales performance, and improving customer retention. The leadership team seeks a data-driven approach to identify key revenue drivers, enhance customer satisfaction, and boost overall business growth. 
 
-This analysis aims to:
-- Understand past customer behavior.
-- Identify key revenue drivers.
-- Propose actionable strategies for business growth.
+To address this, an in-depth analysis of an open-source online retail dataset (e.g., "UCI Online Retail Data") has been conducted. This project leverages Power BI to visualize trends, segment customers, and derive actionable insights to drive strategic decision-making.
 
 ---
 
