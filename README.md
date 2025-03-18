@@ -6,6 +6,13 @@ An emerging e-commerce startup is facing challenges in understanding customer be
 To address this, an in-depth analysis of an open-source online retail dataset (e.g., "UCI Online Retail Data") has been conducted. This project leverages Power BI to visualize trends, segment customers, and derive actionable insights to drive strategic decision-making.
 
 ---
+## **🛠 Tech Stack Used**
+- **📊 Power BI** - For interactive visualizations and dashboards
+- **🐍 Python** - For data preprocessing and analysis
+- **📓 Jupyter Notebook** - For exploratory data analysis (EDA)
+
+---
+
 
 ## **📌 1. Overview**
 This report provides insights into e-commerce sales trends, customer behavior, and product performance based on the Power BI dashboard. The analysis covers key performance indicators (KPIs), sales trends, customer segmentation, top customers, peak shopping hours, geographical sales distribution, and best-selling products.
