@@ -13,24 +13,23 @@ To address this, an in-depth analysis of an open-source online retail dataset (e
 
 ---
 
-
 ## **📌 1. Overview**
 This report provides insights into e-commerce sales trends, customer behavior, and product performance based on the Power BI dashboard. The analysis covers key performance indicators (KPIs), sales trends, customer segmentation, top customers, peak shopping hours, geographical sales distribution, and best-selling products.
 
-🖼️ ![Dashboard]![E-commerce Dashboard](https://github.com/user-attachments/assets/4837c07b-57af-4f1e-b0ba-d6bd7a381218)
+🖼️ ![Screenshot (212)](https://github.com/user-attachments/assets/85c476e2-2aa0-4aaf-82a0-ddb5f93f04ee)
 
 
 ---
 
 ## **📈 2. Key Performance Indicators (KPIs)**
-- **💰 Total Revenue:** ₹4.68M
+- **💰 Total Revenue:** $4.68M
 - **👥 Total Customers:** 4,184
 - **📦 Total Products:** 3,568
 - **📊 Quantity Sold:** 2.14M units
-- **🛒 Average Order Value:** ₹262.09
+- **🛒 Average Order Value:** $262.09
 
 ### **🔍 Insights:**
-- The **average order value of ₹262.09** suggests that customers typically make small to mid-sized purchases.
+- The **average order value of $262.09** suggests that customers typically make small to mid-sized purchases.
 - A **strong customer base of 4,184** indicates a steady market presence.
 - A **wide variety of 3,568 products** shows a diverse inventory, which can be leveraged for targeted promotions.
 
@@ -41,7 +40,7 @@ This report provides insights into e-commerce sales trends, customer behavior, a
 ---
 
 ## **📅 3. Monthly Sales Trend Analysis**
-- **📉 Sales start low in January (~₹0.2M) and peak in December (~₹0.7M).**
+- **📉 Sales start low in January (~$0.2M) and peak in December (~$0.7M).**
 - There is a **steady increase from May onwards**, suggesting seasonal demand or marketing impact.
 - **🎄 November and December** see the highest sales, possibly due to holiday shopping.
 
@@ -67,8 +66,8 @@ This report provides insights into e-commerce sales trends, customer behavior, a
 ---
 
 ## **💎 5. Top 5 Customers Analysis**
-- **🏅 Highest-spending customer (ID 14911) contributed ₹84.75K.**
-- **Other top customers spent between ₹29K - ₹40K.**
+- **🏅 Highest-spending customer (ID 14911) contributed $84.75K.**
+- **Other top customers spent between $29K - $40K.**
 
 ### **🔍 Insights:**
 - A small group of customers contributes a significant portion of sales.
